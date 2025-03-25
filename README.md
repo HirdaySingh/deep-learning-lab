@@ -13,3 +13,8 @@ EXP3:The objective of this lab is to implement Convolutional Neural Networks (CN
 ● 3 Weight Initialization Techniques
 ● 3 Optimizers
 Additionally, you will compare your best CNN model for both datasets with a pretrained ResNet-18 model.
+
+
+EXP4:To explore Text Generation using Recurrent Neural Networks (RNNs) and understand the impact of different word representations:
+1.One-Hot Encoding
+2.Trainable Word Embeddings Additionally, to train both the RNN and LSTM models on a Dataset of 100 poems and compare their performances.
